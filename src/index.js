@@ -1,3 +1,5 @@
+//This app was created by Jonathan Ewers
+// Checkout out my website: https://www.jonathan-ewers.com/
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';

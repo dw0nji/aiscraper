@@ -1,3 +1,5 @@
+//This app was created by Jonathan Ewers
+// Checkout out my website: https://www.jonathan-ewers.com/
 import dotenv from 'dotenv';
 import axios from 'axios';
 import { load } from 'cheerio';

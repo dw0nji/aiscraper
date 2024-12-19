@@ -1,3 +1,7 @@
+//This app was created by Jonathan Ewers
+// Checkout out my website: https://www.jonathan-ewers.com/
+
+
 import React from "react";
 //import './App.css';
 //import './index.css';

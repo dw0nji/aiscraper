@@ -1,4 +1,5 @@
-
+//This app was created by Jonathan Ewers
+// Checkout out my website: https://www.jonathan-ewers.com/
 import React, { useState} from "react";
 import axios from 'axios';
 

@@ -1,4 +1,6 @@
-// server.js
+//This app was created by Jonathan Ewers
+// Checkout out my website: https://www.jonathan-ewers.com/
+
 import express from 'express';
 import cors from 'cors';
 import path from 'path';

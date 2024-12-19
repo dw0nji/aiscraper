@@ -1,3 +1,5 @@
+//This app was created by Jonathan Ewers
+// Checkout out my website: https://www.jonathan-ewers.com/
 /**
   This example requires some changes to your config:
   
